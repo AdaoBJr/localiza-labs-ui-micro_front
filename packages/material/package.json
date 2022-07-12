@@ -1,0 +1,14 @@
+{
+  "name": "@lui/material",
+  "version": "1.0.0",
+  "author": "Adao Benites Arce Junior",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "files": [
+    "dist/*",
+    "dist/**/*"
+  ],
+  "scripts": {
+    "build": "tsc -p ."
+  }
+}
