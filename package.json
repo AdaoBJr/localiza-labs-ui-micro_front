@@ -1,6 +1,5 @@
 {
   "name": "@lui/root",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
