@@ -1,6 +1,6 @@
 {
   "name": "@lui/components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.ts",
   "license": "MIT",
   "publishConfig": {
