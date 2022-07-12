@@ -10,5 +10,8 @@
   ],
   "scripts": {
     "build": "tsc -p ."
+  },
+  "dependencies": {
+    "@lui/components": "^1.0.0"
   }
 }
