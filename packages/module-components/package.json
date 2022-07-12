@@ -1,5 +1,5 @@
 {
-  "name": "@lui/module-components",
+  "name": "@lui/components",
   "version": "1.0.0",
   "main": "index.ts",
   "license": "MIT",
@@ -24,5 +24,7 @@
     "react-dom": "^18.2.0",
     "typescript": "^4.7.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@lui/material": "^1.0.0"
+  }
 }
