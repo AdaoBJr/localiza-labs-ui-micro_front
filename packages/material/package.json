@@ -1,6 +1,6 @@
 {
   "name": "@lui/material",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
@@ -12,6 +12,6 @@
     "build": "tsc -p ."
   },
   "dependencies": {
-    "@lui/components": "^1.0.2"
+    "@lui/components": "^1.0.3"
   }
 }
