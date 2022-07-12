@@ -4,6 +4,9 @@
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist/*",
     "dist/**/*"
