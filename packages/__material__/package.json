@@ -1,6 +1,6 @@
 {
   "name": "@lui-sn/material",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
