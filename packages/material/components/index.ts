@@ -1,3 +1,3 @@
-import { Button } from '@lui/components';
+import { Button } from '@lui-sn/components';
 
 export { Button };

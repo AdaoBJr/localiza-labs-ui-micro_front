@@ -1,5 +1,5 @@
 {
-  "name": "@lui/material",
+  "name": "@lui-sn/material",
   "version": "1.0.12",
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
@@ -11,6 +11,6 @@
     "build": "tsc -p ."
   },
   "dependencies": {
-    "@lui/components": "^1.0.10"
+    "@lui-sn/components": "^1.0.1"
   }
 }

@@ -1,15 +1,16 @@
 {
-  "name": "@lui/components",
-  "version": "1.0.10",
-  "main": "index.ts",
+  "name": "@lui-sn/components",
+  "version": "1.0.1",
+  "author": "Adão Benites Arce Junior",
+  "main": "dist/index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist/*",
     "dist/**/*"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "build": "tsc -p .",
     "storybook": "start-storybook -p 6006",
