@@ -15,11 +15,11 @@
     "noEmit": false,
     "jsx": "react-jsx",
     "noFallthroughCasesInSwitch": true,
-    "rootDirs": ["./src", "./stories"],
+    "rootDirs": ["./src"],
     "outDir": "./dist",
     "declaration": true,
     "declarationMap": true,
     "baseUrl": "./src"
   },
-  "include": ["src", "stories", "index.ts"]
+  "include": ["src", "index.ts"]
 }
