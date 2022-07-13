@@ -7,9 +7,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "lerna exec --scope @lui/app_consumer yarn dev",
-    "start": "lerna exec --scope @lui/app_consumer yarn start",
-    "build": "lerna exec --scope @lui/material yarn build"
+    "dev": "lerna exec --scope @lui-sn/app_consumer yarn dev",
+    "start": "lerna exec --scope @lui-sn/app_consumer yarn start",
+    "build": "lerna exec --scope @lui-sn/material yarn build",
+    "storybook": "lerna exec --scope lui-sn-storybook yarn storybook"
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",
