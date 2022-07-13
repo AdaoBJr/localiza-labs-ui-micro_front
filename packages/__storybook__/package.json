@@ -3,8 +3,13 @@
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "directory": "dist"
+  },
   "scripts": {
     "build": "tsc -p .",
+    "prepare": "tsc -p .",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
