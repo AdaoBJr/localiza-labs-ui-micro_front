@@ -9,7 +9,6 @@
     "directory": "dist"
   },
   "scripts": {
-    "build": "tsc -p .",
     "prepare": "tsc -p ."
   },
   "devDependencies": {
