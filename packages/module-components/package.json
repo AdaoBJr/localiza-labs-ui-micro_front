@@ -1,6 +1,6 @@
 {
   "name": "@lui-sn/module-components",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "Adão Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",

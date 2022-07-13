@@ -1,6 +1,6 @@
 {
   "name": "@lui-sn/material",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
@@ -15,9 +15,9 @@
     "prepare": "tsc -p ."
   },
   "dependencies": {
-    "@lui-sn/module-components": "^1.0.6",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "@lui-sn/module-components": "^1.0.7",
     "@mui/icons-material": "^5.6.2",
     "@mui/lab": "^5.0.0-alpha.78",
     "@mui/material": "^5.6.4",
