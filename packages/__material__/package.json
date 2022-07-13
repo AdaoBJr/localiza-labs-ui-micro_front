@@ -4,9 +4,12 @@
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
+  "files": [
+    "dist/*",
+    "dist/**/*"
+  ],
   "publishConfig": {
-    "access": "public",
-    "directory": "dist"
+    "access": "public"
   },
   "scripts": {
     "prepare": "tsc -p ."
