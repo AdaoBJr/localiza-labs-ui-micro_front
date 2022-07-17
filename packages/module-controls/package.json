@@ -1,6 +1,6 @@
 {
   "name": "@lui-sn/module-controls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Adão Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
